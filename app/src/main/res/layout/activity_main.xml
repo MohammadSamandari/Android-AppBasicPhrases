@@ -13,7 +13,7 @@
         app:rowCount="4">
 
         <Button
-            android:id="@+id/button"
+            android:id="@+id/doyouspeakenglish"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="playPhrase"
@@ -29,7 +29,7 @@
             app:layout_rowWeight="1" />
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/goodevening"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="playPhrase"
@@ -45,7 +45,7 @@
             app:layout_rowWeight="1" />
 
         <Button
-            android:id="@+id/button3"
+            android:id="@+id/hello"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="playPhrase"
@@ -61,7 +61,7 @@
             app:layout_rowWeight="1" />
 
         <Button
-            android:id="@+id/button4"
+            android:id="@+id/howareyou"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="playPhrase"
@@ -77,7 +77,7 @@
             app:layout_rowWeight="1" />
 
         <Button
-            android:id="@+id/button5"
+            android:id="@+id/ilivein"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="playPhrase"
@@ -93,7 +93,7 @@
             app:layout_rowWeight="1" />
 
         <Button
-            android:id="@+id/button6"
+            android:id="@+id/mynameis"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="playPhrase"
@@ -109,7 +109,7 @@
             app:layout_rowWeight="1" />
 
         <Button
-            android:id="@+id/button7"
+            android:id="@+id/please"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="playPhrase"
@@ -125,7 +125,7 @@
             app:layout_rowWeight="1" />
 
         <Button
-            android:id="@+id/button8"
+            android:id="@+id/welcome"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:onClick="playPhrase"
